@@ -1,3 +1,7 @@
 two
 two
+<<<<<<< HEAD
 two
+=======
+দুই
+>>>>>>> staging
